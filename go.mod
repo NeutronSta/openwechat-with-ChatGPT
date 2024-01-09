@@ -1,5 +1,5 @@
-module github.com/eatmoreapple/openwechat
+module openwechat-with-ChatGPT
 
-go 1.20
+go 1.0
 
 
